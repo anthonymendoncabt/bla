@@ -1,2 +1,5 @@
 SECRETS = '77v6jdff9393edd'
 Dogs are cool, cats are interesting.
+
+Username = james
+Password = kilo893
